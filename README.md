@@ -1,2 +1,9 @@
 # Todo-App
-A simple todo list web app to add and delete tasks using JavaScript.
+
+Features:
+- Add tasks
+- Delete tasks
+
+Built with:
+HTML, CSS, JavaScript
+
